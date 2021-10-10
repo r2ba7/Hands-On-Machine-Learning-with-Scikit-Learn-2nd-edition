@@ -1,4 +1,5 @@
 Assignments Solution.
 It's a little barbaric :)
+Each assignment may use the same dataset from one of the previous assignments, so I'm stacking these assignments together, so you may found like each assignment has an MNIST, just scroll to the last ----- and this is the current assignment part, any previous dashes, are for previous assignments. 
 There is a new methods for tuning parameters eg. Optuna, but now I'm sticking in these assignments with the classical ML and requirements with no dropping sweat.
 Some of these assignments I've already done on Kaggle or done other harder datasets.
